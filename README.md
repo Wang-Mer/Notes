@@ -6,25 +6,25 @@
 
 ### 统一软件管理  
 
-[windows系统重装教程](./Windows/1.windows_system_reinstall.md "./Windows/1.windows_system_reinstall.md")  
+[windows系统重装教程](./Windows/1.windows_system_reinstall.md)  
 
-[macOS入门指南](./MacOS/1.macOS_quick_start.md "./MacOS/1.macOS_quick_start.md")  
+[macOS入门指南](./MacOS/1.macOS_quick_start.md)  
 
-[常用办公软件](./Software/GeneralTools/README.md "./Software/GeneralTools/README.md")  
+[常用办公软件](./Software/GeneralTools/README.md)  
 
-[实用极客工具](./Software/GeekTools/README.md "./Software/GeekTools/README.md")  
+[实用极客工具](./Software/GeekTools/README.md)  
 
-[开发工具](./Software/DevelopTools/README.md "./Software/DevelopTools/README.md")    
+[开发工具](./Software/DevelopTools/README.md)    
 
 ​    
 
 ### 浏览器插件  
 
-[常用浏览器插件](./Tools/browser_plugins.md "./Tools/browser_plugins.md")  
+[常用浏览器插件](./Tools/browser_plugins.md)  
 
 ​    
 
 ### 常用工具网站  
 
-[常用工具网站](./Tools/frequently_used_website.md "./Tools/frequently_used_website.md")  
+[常用工具网站](./Tools/frequently_used_website.md)  
 
