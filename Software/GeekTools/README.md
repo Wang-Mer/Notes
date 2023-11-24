@@ -15,6 +15,20 @@
 
 Windows: [驱动精灵离线版安装使用教程](./Windows/1.1.windows.drivergenius.md "./Windows/1.1.windows.drivergenius.md")  
 
+#### 1.2 微信插件
+
+简介: 微信插件, 微信电脑版必备    
+
+支持平台: Windows/macOS
+
+下载与使用教程:
+Windows: [微信插件离线版安装使用教程](./Windows/1.2.windows.wechat.plugin.md "./Windows/1.2.windows.wechat.plugin.md")
+
+macOS: [微信插件离线版安装使用教程](./macOS/1.2.macos.wechat.plugin.md "./macOS/1.2.macos.wechat.plugin.md")
+
+
+https://github.com/MustangYM/WeChatExtension-ForMac
+
 ​    
 
 ### 2 远程控制
